@@ -1,0 +1,134 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #d1ccc0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.heading {
+    text-align: center;
+    margin-top: 5%;
+    font-size: 60px;
+    font-style: italic;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Recursive', sans-serif;
+}
+
+.container {
+    margin-top: 5%;
+    margin-left: 30%;
+    width: 30%;
+    border: 1px solid black;
+    box-shadow: 5px 5px 5px gray;
+    background-color: #f7f1e3;
+    border-radius: 10px;
+    padding: 10px 40px;
+}
+
+.search-word {
+    display: flex;
+    justify-content: space-around;
+}
+
+.inp {
+    margin-top: 5%;
+    width: 70%;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid #40407a;
+    background-color: #f7f1e3;
+    font-size: 16px;
+    padding: 5px 5px;
+}
+
+.search-btn {
+    margin-top: 5%;
+    width: 20%;
+    padding: 5px 5px;
+    font-weight: 600;
+    border-radius: 10px;
+    background-color: #d1ccc0;
+}
+
+.word {
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 5px;
+}
+
+h3 {
+    font-size: 30px;
+    letter-spacing: 0.3px;
+    color: #2d3436;
+}
+
+.sound-icn {
+    color: #2d3436;
+    font-size: 25px;
+    padding: 5px 5px;
+    background-color: transparent;
+    border: none;
+}
+
+
+.word-verb {
+    display: flex;
+    gap: 16px;
+    font-style: italic;
+    padding: 5px 5px;
+    color: #636e72;
+    font-weight: 100;
+    letter-spacing: 0.5px;
+}
+
+.defination {
+    padding: 5px 5px;
+    margin-top: 10px;
+    border-left: 4px solid #636e72;
+    font-style: italic;
+}
+
+#word-defination {
+    font-weight: 400;
+    letter-spacing: 0.2px;
+    font-size: 20px;
+    color: #2d3436;
+    margin-left: 7px;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .app {
+        font-size: 1rem;
+    }
+
+    .heading {
+        font-size: 2rem;
+    }
+
+    .container {
+        width: 70%;
+        margin: 0 auto;
+        margin-top: 30px;
+    }
+
+    .search-btn {
+        width: max-content;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {}
