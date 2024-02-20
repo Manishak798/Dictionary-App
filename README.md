@@ -1,6 +1,6 @@
 # Dictionary-App: Your Vocabulary Booster 📚📖🔍
 
-**Visit PRoject**
+**Visit Project🔗🌐**
 
 https://manishak798.github.io/Dictionary-App/
 
