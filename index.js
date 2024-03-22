@@ -1,3 +1,4 @@
+//app.js file
 const url = "https://api.dictionaryapi.dev/api/v2/entries/en/";
 const searchdword = document.getElementById("search-word");
 const partofspeech = document.getElementById("pos");
