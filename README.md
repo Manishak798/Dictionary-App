@@ -44,4 +44,4 @@ Get ready to expand your vocabulary and master word meanings with Dict-tactic, a
 * ➕ Integrate more APIs: Unlock even richer word information with additional language resources.
 *  Join the community: Submit pull requests, raise issues, and help Dict-tastic grow!
 
-**Enjoy & Share the Knowledge!** 
+**Enjoy & Share the Knowledge!⭐** 
