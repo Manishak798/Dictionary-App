@@ -18,7 +18,7 @@ Get ready to expand your vocabulary and master word meanings with Dict-tactic, a
 *  Real-world Examples: See how words are used in context with practical example sentences.
 *  Responsive Design: Enjoy a seamless experience on any device, whether desktop, mobile, or tablet.
 
-**Technologies:**
+**Technologies:** 👩🏻‍💻
 
 *  HTML: The sturdy foundation for the app's structure and content.
 *  CSS: Enhances the visuals with elegant styles and formatting.
