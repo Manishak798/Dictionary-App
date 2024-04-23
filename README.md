@@ -25,7 +25,7 @@ Get ready to expand your vocabulary and master word meanings with Dict-tactic, a
 *  JavaScript: Manages interactivity, data fetching, and dynamic elements.
 *  Dictionary API: The secret sauce, providing definitions, synonyms, antonyms, and examples.
 
-**Getting Started:** 🌟
+**Getting Started:** 🌟⭐
 
 1.  Clone the Repository:
    ```bash
