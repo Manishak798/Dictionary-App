@@ -25,7 +25,7 @@ Get ready to expand your vocabulary and master word meanings with Dict-tactic, a
 *  JavaScript: Manages interactivity, data fetching, and dynamic elements.
 *  Dictionary API: The secret sauce, providing definitions, synonyms, antonyms, and examples.
 
-**Getting Started:** 🌟⭐
+**Getting Started:** 🌟⭐📍
 
 1.  Clone the Repository:
    ```bash
@@ -38,7 +38,7 @@ Get ready to expand your vocabulary and master word meanings with Dict-tactic, a
 4.  Open in Browser:
    Visit the app at the specified URL (e.g., `http://localhost:3000`).
 
-**Customize & Contribute:**
+**Customize & Contribute:** 🤝🏻
 
 *  Make it your own: Adapt the app's name, styles, and features to your liking.
 * ➕ Integrate more APIs: Unlock even richer word information with additional language resources.
