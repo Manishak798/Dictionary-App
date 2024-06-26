@@ -4,7 +4,7 @@ https://github.com/Manishak798/Pokemon-card-genrator-/assets/90680330/c8a8f357-7
 
 <br>
 
-**Visit Project🔗🌐**
+**Visit Project🔗**
 
 https://manishak798.github.io/Dictionary-App/
 
