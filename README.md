@@ -8,11 +8,11 @@ https://github.com/Manishak798/Pokemon-card-genrator-/assets/90680330/c8a8f357-7
 
 https://manishak798.github.io/Dictionary-App/
 
-**Description:** 📄
+**Description** 📄
 
 Get ready to expand your vocabulary and master word meanings with Dict-tactic, a user-friendly web app built with cutting-edge technologies!  It leverages the power of HTML, CSS, JavaScript, and the Dictionary API to bring you comprehensive definitions, synonyms, antonyms, and example sentences, all at your fingertips. 
 
-**Features:** ✨⭐
+**Features** ✨⭐
 
 *  Instant Word Lookups: Search for any word and instantly see its definition, part of speech, and other details.
 *  Clear & Concise Explanations: Understand word meanings easily with well-structured and easily digestible explanations.
